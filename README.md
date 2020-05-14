@@ -1,3 +1,4 @@
+```markdown
 # User Documentation
 
 The goal of this home school database system is to provide a quick, simple, and easy management system for parents of homeschooled high school students to keep track of their information digitally.
@@ -6,7 +7,7 @@ While there are many school database systems, there are very few with the reduce
 
 Also, the low-level and hands-on nature of the software allows parents who need to modify and extend the functionality of the database to suit their need to do so, as long as they have some basic knowledge of MySQL architecture design.
 
-### Installation
+## Installation
 
 Two other softwares are required before the installation of this software.
 
@@ -117,7 +118,7 @@ The list of all outstanding and resolved bugs and issues can be found on our [Gi
 ——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
 
 
-```markdown
+
 Syntax highlighted code block
 
 
