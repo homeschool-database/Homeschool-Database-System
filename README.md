@@ -1,4 +1,4 @@
-# User Documentation
+# **User Documentation**
 
 The goal of this home school database system is to provide a quick, simple, and easy management system for parents of homeschooled high school students to keep track of their information digitally.
 
@@ -6,7 +6,7 @@ While there are many school database systems there are very few with the reduced
 
 Also, the low-level and hands on nature of the software allows parents who need to modify and extend the functionality of the database to suit their need to do so, as long as they have some basic knowledge of MySQL architecture design.
 
-## Installation
+## **Installation**
 
 Two other softwares are required before the installation of this software.
 
@@ -28,7 +28,7 @@ Return here once you have finished.
 
 At this point our database is fully installed and configured to its base functionality.
 
-## MySQL Workbench
+## **MySQL Workbench**
 
 The main user interface to interact with our software will be through MySQL Workbench.
 
@@ -42,7 +42,7 @@ Much of the interface is self-explanatory in its functinality, but several keys 
 
 More information: [MySQL Workbench](https://www.mysql.com/products/workbench/dev/)
 
-## Using the Database
+## **Using the Database**
 
 To make changes to and insert new data into the database follow these basic steps.
 
@@ -56,7 +56,7 @@ More information: [Getting Started](https://dev.mysql.com/doc/mysql-getting-star
 
 3) Run the query to make changes to the database.
 
-## Reporting Bugs
+## **Reporting Bugs**
 
 To report any bugs in the software or to request help simply navigate to the [Issues](https://github.com/homeschool-database/homeschool-database-system/issues) tab on our GitHub and submit a new issue. Include all relevent information, including your email so we can contact you, the nature of you bug or issue, where it arriese in the software, and also any relevent images or links.
 
@@ -65,7 +65,7 @@ This is a public forum so please do not post any personal information.
 Our team will get back to you as soon as possible.
 
 
-# Developer Documentation
+# **Developer Documentation**
 
 
 
