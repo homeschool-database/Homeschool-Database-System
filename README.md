@@ -1,4 +1,4 @@
-## User Documentation
+# User Documentation
 
 The goal of this software database system is to provide a quick, simple, and easy management system for parents of homeschooled high school students to keep track of their information digitally.
 
@@ -6,25 +6,40 @@ This is the website for our user documentation.
 
 Our developer site is located on out GitHub, here: (Link to GitHub)
 
-### Installation
+## Installation
 
 Two other softwares are required before the installation of this software.
 
-[MySQL](https://dev.mysql.com/doc/mysql-installation-excerpt/5.7/en/) and [MySQL Workbench](https://dev.mysql.com/doc/workbench/en/wb-installing.html).
+[MySQL](https://dev.mysql.com/doc/mysql-installation-excerpt/5.7/en/)
 
-Follow the links above to fully and completely configure those softwares.
+and
+
+[MySQL Workbench](https://dev.mysql.com/doc/workbench/en/wb-installing.html).
+
+Follow the links above.
+
+Your MySQL and MySQL Workbench should be fully configured and operational before continuing the installation process.
 
 Return here once you have finished.
 
-1)
+1) Download the latest version of our software from our GitHub and unzip its contents.
 
-2)
+2) Start your MySQL server.
 
-3)
+3) Start up MySQL Workbench and connect to your local host.
+
+4) Open the "create_school.sql" script in MySQL Workbench and run the entire script.
+
+5) Create a new .sql script document that contains the query you wish to run.
+
+6) Run the script to make changes and insert new data into the home school database.
+
+Note: The scripts you design will be written in MySQL and must follow the specifications of the database.
+
+## Developer Documentation
 
 
 
-~~~
 
 
 
