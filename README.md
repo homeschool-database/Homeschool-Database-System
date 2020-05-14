@@ -1,10 +1,6 @@
 # User Documentation
 
-The goal of this software database system is to provide a quick, simple, and easy management system for parents of homeschooled high school students to keep track of their information digitally.
-
-This is the website for our user documentation.
-
-Our developer site is located on out GitHub, here: (Link to GitHub)
+The goal of this home school database system is to provide a quick, simple, and easy management system for parents of homeschooled high school students to keep track of their information digitally.
 
 ## Installation
 
