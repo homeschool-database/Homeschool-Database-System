@@ -1,4 +1,3 @@
-```markdown
 # User Documentation
 
 The goal of this home school database system is to provide a quick, simple, and easy management system for parents of homeschooled high school students to keep track of their information digitally.
@@ -82,6 +81,8 @@ The Directory of the Software is very straightforward, and there are only two ma
 
 
 
+——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
+
 
 
 
@@ -115,10 +116,9 @@ The list of all outstanding and resolved bugs and issues can be found on our [Gi
 
 
 
-——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
 
 
-
+```markdown
 Syntax highlighted code block
 
 
