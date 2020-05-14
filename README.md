@@ -6,7 +6,7 @@ While there are many school database systems, there are very few with the reduce
 
 Also, the low-level and hands-on nature of the software allows parents who need to modify and extend the functionality of the database to suit their need to do so, as long as they have some basic knowledge of MySQL architecture design.
 
-## Installation
+### Installation
 
 Two other softwares are required before the installation of this software.
 
