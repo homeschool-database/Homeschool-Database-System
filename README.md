@@ -106,7 +106,7 @@ The list of all outstanding and resolved bugs and issues can be found under [Iss
 
 More information about this project can be found in the sections down below.
 
-Since this project is always being worked on and always being improved upon, some information may quickly become out of date. If you notice any information that does not fully align with our most current release, please submit an [Issue](), and we'll get back to you as soon as possible.
+Since this project is always being worked on and always being improved upon, some information may quickly become out of date. If you notice any information that does not fully align with our most current release, please submit an [Issue](https://github.com/homeschool-database/homeschool-database-system/issues), and we'll get back to you as soon as possible.
 
 The below content is only meant to give developers, and possibly interested parents, a more in-depth overview of the development and design process of this software.
 
