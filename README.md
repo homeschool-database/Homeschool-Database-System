@@ -79,31 +79,19 @@ The most current release version can be found on our [GitHub](https://github.com
 
 The Directory of the Software is very straightforward, and there are only two main components. The main "create_school.sql" file creates the database, and the "commands.sql" file contains basic templates for SQL statements that can be run on the database.
 
-
-
-——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
-
-
-
-
-
-
-
-
-
-
-
 ## How to Build Upon or Test the Database
 
-As the software strucutre is very simple this can be done two ways. Simply download the current sourse code of the software to your local version of MySQL Workbench and then make your changes to the "commands.sql" file.
+As the software structure is straightforward, this can be done in two ways. Download the current source code of the software to your local version of MySQL Workbench and then make your changes to the "commands.sql" file. Changes to create_school.sql" can be submitted, but they are less likely to be accepted into the larger codebase unless they are deemed necessary. The second way this can be done is by forking the source code and then requesting to merge your changes back into the main codebase. This second option still requires a local version of MySQL Workbench.
+
+For testing, the best option is to run all your commands within the scope of a test database and then confirm all the changes are as expected and that the queried information is what was requested. Submitted changes will be further testest and possibly improved upon by the team.
 
 ## How to Release a New Version of the Database
 
-
+Single developers can not currently release a new version. If the current code base is determined to be sufficiently stable and ready for release, then our team will publish a new release. Developers can contribute to the release process by suggesting changes and submitting new features.
 
 ## How to Access the List of Outstanding Bugs
 
-The list of all outstanding and resolved bugs and issues can be found on our [GitHub](https://github.com/homeschool-database/homeschool-database-system/issues).
+The list of all outstanding and resolved bugs and issues can be found under [Issues](https://github.com/homeschool-database/homeschool-database-system/issues).
 
 ## Comments for Contributing to the Source Code
 
@@ -112,17 +100,3 @@ The list of all outstanding and resolved bugs and issues can be found on our [Gi
 2. Please follow the basic code style demonstrated in the source code. While your contribution will be refactored and tailored to fit into our codebase, your changes are more likely to be accepted if they are readable.
 
 3. Please properly test your changes. They will be tested further by our development team, but if your changes do not compile or are unable to be merged into our system, they will be discarded.
-
-
-
-
-
-
-```markdown
-Syntax highlighted code block
-
-
-`Code` text
-
-![Image](src)
-```
