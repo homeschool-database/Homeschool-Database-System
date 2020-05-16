@@ -18,7 +18,7 @@ Your MySQL and MySQL Workbench should be fully configured and operational before
 
 Return here once you have finished.
 
-1. Download the latest version of our software from our GitHub and unzip its contents.
+1. Download the latest [Release](https://github.com/homeschool-database/homeschool-database-system/releases) of our software from our GitHub and unzip its contents.
 
 2. Start your MySQL server.
 
