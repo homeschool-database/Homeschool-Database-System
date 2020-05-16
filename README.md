@@ -52,9 +52,11 @@ More information: [Getting Started](https://dev.mysql.com/doc/mysql-getting-star
 
 1. Inside MySQL Workbench, please create a new SQL file, name it, and save it where it is accessible.
 
-2. Design your MySQL query and then save it.
+2. View the commands in "commands.sql," they are there to provode a guide for you when creating commands.
 
-3. Run the SQL file and its queries to make changes to the database.
+3. Design your new MySQL query and then save it.
+
+4. Run the SQL file and its queries to make changes to the database.
 
 ## Reporting Bugs
 
